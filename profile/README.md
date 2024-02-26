@@ -8,9 +8,6 @@
 
 자세한 사항은 [BRIDGE DEV 설명글](https://github.com/orgs/BRIDGE-DEV/discussions/10)을 참고해주시기 바랍니다.
 
-- 23-2 운영진
-  - [10기 프로그래머 이정안](https://github.com/fkdl0048)
-  - [11기 프로그래머 홍성재](https://github.com/wave-sound)
 - 현재 진행중인 일정
   - [Projects](https://github.com/orgs/BRIDGE-DEV/projects/6)
 - BRIDGE DEV글 모음
